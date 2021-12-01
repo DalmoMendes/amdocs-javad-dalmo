@@ -1,4 +1,4 @@
-# :desktop_computer: Amdocs-javad-dalmo
+# :desktop_computer: amdocs-javad-dalmo
 Conteúdo do Bootcamp Amdocs JAVA Developer - DIO
 <p>:loudspeaker: Fala Devs! Tudo bem com vocês? Este repositório será desenvolvido com a finalidade de acompanhar todo processo de aulas, conteúdos, dicas e desafios propostos pelo boomtcamp. Além disso, publicarei conteúdos exclusivos relacionados ao camp. Portanto, sejam muito bem-vindo(a)s.</p>
 
@@ -20,7 +20,7 @@ Conteúdo do Bootcamp Amdocs JAVA Developer - DIO
 
 <li>- [ ] Projetos ágeis com Scrum: :open_file_folder: 4Proj-ageis-scrum
 
-<li>- [ ] Primeiro repositório-amdocs-jd: :open_file_folder: 5pr-amdocs</li>
+<li>- [X] Primeiro repositório-amdocs-jd: :open_file_folder: 5pr-amdocs</li>
 
 <li>- [ ] Linux Introdução - Sistemas Operacional e Terminal: :open_file_folder: 6Linux-so-ter</li>
 
