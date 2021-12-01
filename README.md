@@ -10,19 +10,19 @@ Conteúdo do Bootcamp Amdocs JAVA Developer - DIO
 - Em Desenvolvimento: :warning:
 
 # :desktop_computer: Mentorias
-xm1 Mentoria1: 26/11/2021, 14:00 (T2H)
+xm1 Mentoria1: :calendar: 26/11/2021, :clock2: 14:00 (T2H)
 - [X] Aula Inaugural - Bootcamp Amdocs
 
-xm2 Mentoria2: 14/12/2021, 14:00, (T2H)
+xm2 Mentoria2: :calendar: 14/12/2021, :clock2: 14:00, (T2H)
 - [ ] Como ser o próximo contratado da Amdocs
 
-xm3 Mentoria3: 21/12/2021, 16:00 (T2H)
+xm3 Mentoria3: :calendar: 21/12/2021, :clock4: 16:00 (T2H)
 - [ ] Como resolver os desafios de código
 
-xm4 Mentoria4: 12/01/2022, 14:00, (T2H)
+xm4 Mentoria4: :calendar: 12/01/2022, :clock2: 14:00, (T2H)
 - [ ] Utilizando Cucumber para testes automatizados com Java
 
-xm5 Mentoria5: 17/01/2022, 14:00, (T2H)
+xm5 Mentoria5: :calendar: 17/01/2022, :clock2: 14:00, (T2H)
 - [ ] CI/CD (Integração Contínua e Implantação Contínua)
 
 
@@ -94,6 +94,6 @@ xm5 Mentoria5: 17/01/2022, 14:00, (T2H)
 </ol>
 
 ## :trophy: Finalizando o Bootcamp
-<p>Ufa! Pra quem chegar até aqui! Já pode se comsiderar um ou uma casca grossa! :alien: </p>
+<p>Ufa! Pra quem chegar até aqui, já pode se comsiderar um ou uma casca grossa! :alien: </p>
 <p>:rocket: Em busca da decolagem!!! </p>
 <p>by Dalmo Mendes - :email: dalmosilvamendes@gmail.com</p>
