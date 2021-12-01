@@ -1,0 +1,111 @@
+Organização dos Diretórios das aulas do BootCamp: Amdocs JAVA Developer
+by Dalmo Mendes, Boa Vista-RR, 2021/2022
+github.com/DalmoMendes/amdocs-jd-dalmo
+
+xm1 Mentoria#1: 
+Aula Inaugural - Bootcamp Amdocs
+
+xm2 Mentoria#2: 
+Como ser o próximo contratado da Amdocs
+
+xm3 Mentoria#3: 
+Como resolver os desafios de código
+
+xm4 Mentoria#4:
+Utilizando Cucumber para testes automatizados com Java
+
+xm5 Mentoria#5: 
+CI/CD (Integração Contínua e Implantação Contínua)
+
+Lógica de Programação:
+1Logica-Prog
+
+Estrutura de Dados e Algoritmos:
+2Est-Dad-Alg
+
+Introdução ao Git e Github:
+3Int-Git-Github
+
+Projetos ágeis com Scrum:
+4Proj-ageis-scrum
+
+Primeiro repositório-amdocs-jd:
+5pr-amdocs
+
+Linux Introdução - Sistemas Operacional e Terminal:
+6Linux-so-ter
+
+Linux: Diretórios e Comandos:
+7Linux-Dir-comm
+
+Linux: Fundamentos de Redes e Comandos Avançados:
+8Linux-rfca
+
+Linux: Gerenciamento de pacotes:
+9Linux_Ge-paco
+
+Dominando IDEs Java:
+10Dom-Ides-Java
+
+Introdução ao Ecosistema e Documentação Java:
+11I-Eco-Doc-Java
+
+Configurando Ambiente de Desnevolvimento Java no Linux:
+12Conf-AD-JLinux
+
+Váriaveis, Tipos de Dados e Operadores matemáticos em Java:
+13Var-Ti-DOM-java
+
+Lógica Condicional e Controle de Fluxos em Java:
+14LC-CF-Java
+
+Estrutura de Repetição e Array em Java:
+15Est-Rep-Array-Java
+
+Reforçando o Conceito de Laços em Java
+16RCL-Java
+
+Introdução a orientação a objetos com Java
+17Int-OO-Java
+
+Implementando Collections e Streams com Java
+18Im-Coll-Streams-Java
+
+Entrada e Saída de Arquivos (I/O) em Java
+19Ent-Sai-Arq-IO-Java
+
+Resolvendo Desafio de Código em Java
+20Res-De-Cod-Java
+
+Desafio Java - Bootcamp Amdocs
+21Des-Java-bc-Amdocs
+
+Criando um banco Digital com Java e Orientação a Objetos
+22BDigital-Java-oo
+
+SQL Server - Criando suas primeiras consultas
+23SQL-Ser-pconsul
+
+Modelando um banco de dados na prática com SQL Server
+24SQLBD-SQL-Ser
+
+SQL Server: Boas práticas em Banco de Dados relacionais
+25SQL-ser-bp-rel
+
+Introdução a APIS e métodos HTTP
+26Int-Apis-http
+
+Introdução ao framework Sprint Boot
+27Int-fram-sb
+
+Simplificando Projetos Java com Sprint Boot
+28Si-pr-Java-sb
+
+Introdução aos Conceitos de API e Clean Architeture
+29Int-Api-Clean-Arc
+
+Desafio Java - Bootcamps Amdocs 2
+30Des-java-bc-Amdoc2
+
+Desenvolvendo um sistema de gerenciamento de pessoais em API REST com Sprint Boot.
+31Des-Sgp-api-rest-sb
