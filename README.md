@@ -4,7 +4,7 @@ Conteúdo do Bootcamp Amdocs JAVA Developer - DIO
 
 # Organização das aulas ou desafios
 
-<ul>
+<ol>
 <li>Lógica de Programação: 1Logica-Prog</li>
 
 <li>Estrutura de Dados e Algoritmos: 2Est-Dad-Alg</li>
@@ -67,4 +67,5 @@ Conteúdo do Bootcamp Amdocs JAVA Developer - DIO
 <li>Desfio Java - Bootcamps Amdocs 2: 30Des-java-bc-Amdoc2</li>
 
 <li>Desenvolvendo um sistema de gerenciamento de pessoais em API REST com Sprint Boot: 31Des-Sgp-api-rest-sb</li>
-</ul>
+
+</ol>
