@@ -9,6 +9,23 @@ Conteúdo do Bootcamp Amdocs JAVA Developer - DIO
 - Concluído: :heavy_check_mark:
 - Em Desenvolvimento: :warning:
 
+# :desktop_computer: Mentorias
+xm1 Mentoria1: 26/11/2021, 14:00 (T2H)
+- [X] Aula Inaugural - Bootcamp Amdocs
+
+xm2 Mentoria2: 14/12/2021, 14:00, (T2H)
+- [ ] Como ser o próximo contratado da Amdocs
+
+xm3 Mentoria3: 21/12/2021, 16:00 (T2H)
+- [ ] Como resolver os desafios de código
+
+xm4 Mentoria4: 12/01/2022, 14:00, (T2H)
+- [ ] Utilizando Cucumber para testes automatizados com Java
+
+xm5 Mentoria5: 17/01/2022, 14:00, (T2H)
+- [ ] CI/CD (Integração Contínua e Implantação Contínua)
+
+
 # Organização das aulas ou desafios
 
 <ol>
